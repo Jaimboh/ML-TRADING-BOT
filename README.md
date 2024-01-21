@@ -15,7 +15,7 @@ Build a trader bot which looks at sentiment of live news events and trades appro
 </br>
 # Other References 🔗
 
-<p>-<a href="github.com/Lumiwealth/lumibot)">Lumibot</a>:trading bot library, makes lifecycle stuff easier .</p>
+<p>-<a href="https://github.com/Lumiwealth/lumibot">Lumibot</a>:trading bot library, makes lifecycle stuff easier .</p>
 
 📅 Version: 1.x<br />
 📜 License: This project is licensed under the MIT License </br>
